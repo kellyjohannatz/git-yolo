@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Genfar</folder>
+	<filename>00000312.jpg</filename>
+	<path>C:\tensorflow1\Practica2\keras-yolo3-master\Annotations\Genfar\00000312.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>486</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Genfar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>55</ymin>
+			<xmax>258</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>LaSante</folder>
+	<filename>00000733.jpg</filename>
+	<path>C:\tensorflow1\Practica2\keras-yolo3-master\Annotations\LaSante\00000733.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LaSante</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>188</ymin>
+			<xmax>391</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>
